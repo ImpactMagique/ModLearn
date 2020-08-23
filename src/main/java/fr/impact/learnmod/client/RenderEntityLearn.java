@@ -17,7 +17,6 @@ public class RenderEntityLearn extends RenderBiped {
 	
 	@Override
 	protected ResourceLocation getEntityTexture(Entity living) {
-		// TODO Auto-generated method stub
 		return this.getMobLearnTexture((EntityLearn) living);
 	}
 	
