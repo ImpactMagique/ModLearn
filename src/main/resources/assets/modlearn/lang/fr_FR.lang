@@ -1,0 +1,18 @@
+tile.learnBlock.name = Apprendre Block
+item.learnBlock.name = Apprendre Item
+item.learnHelmet.name = Casque Apprendre
+item.learnChestPlate.name = Casque Apprendre
+item.learnLeggings.name = Casque Apprendre
+item.learnBoots.name = Casque Apprendre
+
+
+item.learnPickaxe.name = Pioche Apprendre
+item.learnAxe.name = Hache ApprendreAxe
+item.learnShovel.name = Pelle Apprendre
+item.learnHoe.name = Houe Apprendre
+item.learnSword.name = Epee Apprendre
+
+item.speedStick.name = Bâton de Speed
+item.healStick.name = Bâton de Heal
+
+entity.mobLearn.name = Entité Learn

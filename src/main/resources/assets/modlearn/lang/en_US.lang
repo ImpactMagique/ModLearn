@@ -1,0 +1,15 @@
+tile.learnBlock.name = Learn Block
+item.learnItem.name = Learn Item
+item.learnHelmet.name = Learn Helmet
+item.learnChestPlate.name = Learn ChestPlate
+item.learnLeggings.name = Learn Leggings
+item.learnBoots.name = Learn Boots
+
+item.learnPickaxe.name = Learn Pickaxe
+item.learnAxe.name = Learn Axe
+item.learnShovel.name = Learn Shovel
+item.learnHoe.name = Learn Hoe
+item.learnSword.name = Learn Sword
+
+item.speedStick.name = Speed Stick
+item.healStick.name = Heal Stick

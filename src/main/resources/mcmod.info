@@ -1,0 +1,16 @@
+[
+{
+  "modid": "modlearn",
+  "name": "Mod Learn",
+  "description": "Le mod du stylé et bg Impact_t",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Impact_t"],
+  "credits": "Les bg de MFF",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
